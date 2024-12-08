@@ -18,6 +18,6 @@ Una de las razones por las que escogí esta carrera por sobre otras, es la impor
 
 ## Pasatiempos
 Adoro la música, no puedo dejar de escucharla, incluso a la hora de trabajar, por lo que también me gusta hacerla. Mi mayor pasatiempo estocar el bajo...
-
+:)
 ## Mis redes sociales (no cuento con redes sociales como instagram o facebook)
 **GitHub:** [myn4ard](https://github.com/myn4rd/) 
