@@ -4,7 +4,7 @@
 
 - [Práctica3](https://github.com/kar64623/Prac3-extra)
 
-- [Practica](/practica-5.md)
+- [Practica5](/practica-5.md)
 
 - [Prática6](https://github.com/kar64623/prac6-extra)
 
